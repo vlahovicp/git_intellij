@@ -6,7 +6,10 @@ public class Main {
         System.out.println("Hello world");
         System.out.println("Hello 2");
 
-        System.out.println("This will be some more");
+        int i = 0;
+        int j = 10;
+
+        System.out.println(i + j);
     }
 
 }
